@@ -5,7 +5,7 @@ Home: http://code.google.com/p/pymox/
 
 Package license: Apache License, Version 2.0
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Mock object framework
 
@@ -69,9 +69,15 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/mox-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/mox-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/mox-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/mox-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/mox-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/mox-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mox/badges/version.svg)](https://anaconda.org/conda-forge/mox)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mox/badges/downloads.svg)](https://anaconda.org/conda-forge/mox)
 
 
 Updating mox-feedstock
