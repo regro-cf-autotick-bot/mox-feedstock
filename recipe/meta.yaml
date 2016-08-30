@@ -10,7 +10,7 @@ source:
   md5: 6de7371e7e8bd9e2dad3fef2646f4a43
 
 build:
-  number: 0
+  number: 1
   skip: true  # [py3k]
   script: python setup.py install
 
