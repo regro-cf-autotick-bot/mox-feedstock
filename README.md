@@ -9,6 +9,8 @@ Feedstock license: BSD 3-Clause
 
 Summary: Mock object framework
 
+Mox is a mock object framework for Python based on the Java mock
+object framework EasyMock.
 
 
 Current build status
