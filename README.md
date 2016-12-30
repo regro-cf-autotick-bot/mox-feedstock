@@ -3,7 +3,7 @@ About mox
 
 Home: http://code.google.com/p/pymox/
 
-Package license: Apache License, Version 2.0
+Package license: Apache-2.0
 
 Feedstock license: BSD 3-Clause
 
