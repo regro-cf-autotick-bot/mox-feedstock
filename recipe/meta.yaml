@@ -28,6 +28,7 @@ test:
 about:
   home: http://code.google.com/p/pymox/
   license: Apache-2.0
+  license_family: Apache
   summary: 'Mock object framework'
 
 extra:
