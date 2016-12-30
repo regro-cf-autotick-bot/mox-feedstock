@@ -30,6 +30,9 @@ about:
   license: Apache-2.0
   license_family: Apache
   summary: 'Mock object framework'
+  description: |
+    Mox is a mock object framework for Python based on the Java mock
+    object framework EasyMock.
 
 extra:
   recipe-maintainers:
